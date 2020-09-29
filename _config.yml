@@ -1,2 +1,4 @@
 name: Saman Alvi, Software Engineer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
