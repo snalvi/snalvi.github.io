@@ -2,7 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: 'Calibri', 'Candara', 'Segoe', 'Segoe UI', 'Optima', 'Arial', 'sans-serif';
+    color: #333;
 }
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
@@ -31,10 +33,16 @@ h2 {
     font-size: 2.5em;
 }
 
-p {
+h3 {
+    font-size: 2em;
+}
+
+h4 {
     font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+}
+
+p {
+    line-height: 1.2em;
 }
 
 footer {
@@ -50,4 +58,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 
