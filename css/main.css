@@ -6,7 +6,6 @@
 .column {
   float: left;
   padding: 10px;
-  width: 50%;
 }
 
 /* Clear floats after the columns */
@@ -16,8 +15,16 @@
   clear: both;
 }
 
+.left {
+    width: 60%;
+}
+
+.right {
+    width: 40%;
+}
+
 .panel-image {
-    width: 50%;
+    width: 40%;
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
